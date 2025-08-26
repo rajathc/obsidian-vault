@@ -1,0 +1,11 @@
+**Hey Priya,**
+
+I spoke to BH Prakash Reddy. He requested ChatGPT integration because he often searches for suggestions on Ask Neo after consultations. However, in the few times he tried, it either did not give him a response or showed that nothing was found from the memories. He said he needs some sort of web search function that can be proficient in medical knowledge. Right now, ChatGPT is doing that for him. Hence, he wants to export the memories to ChatGPT.
+
+Currently, he copies the summary and transcripts, then asks ChatGPT what better treatment he could have provided, and reviews the suggestions after the consultation. He followed a similar process earlier, but he was also using ChatGPT on a laptop for transcription. Right now, this workflow is slightly inconvenient been inconvenient for him since it requires pasting the summary from the Neo app into WhatsApp, then copying it again to ChatGPT on his laptop. When I asked why he doesn’t paste it directly into ChatGPT on his phone, he explained that he prefers the larger laptop screen as it is easier for him to read.
+
+He also uses the device for public speaking. After a speech, he once asked Neo for suggestions on how to improve. Although he has only tried this once, he said that with indic language support, he would use it more frequently. Currently he uses brainstorming with Neo AI freqently. 
+
+So far, he has not had repeat patients, so he has not been able to test the recall feature in real consultations. However, he has tried using Ask Neo for general queries such as checking gold prices but did not receive the results, so he prefers ChatGPT for such tasks also.
+
+He mainly uses the device in the clinic and during career counselling sessions he conduscts, usually with the device placed on the table. He is satisfied with the overall transcript and memory quality, except for the Indic language support. He also noted issues with entity recognition in Ask Neo and inaccuracies in recall. For example, he told me about a conversation with a patient about returning in 25 days, but Ask Neo displayed it as 125 days, and he couldn't find the chat to show me. 

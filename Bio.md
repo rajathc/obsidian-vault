@@ -1,0 +1,12 @@
+As a Product Manager at NeoSapien, I am dedicated to driving innovation and delivering impactful solutions in the technology sector. With a postgraduate degree in Computational Chemistry from the Indian Institute of Technology, Bombay, I bring a unique analytical perspective to product development. My entrepreneurial journey includes founding and leading a startup for two years, enriching my approach to problem-solving and innovation.
+
+Beyond my professional endeavors, I am passionate about infusing creativity into technology. I express this enthusiasm through my blog, where I explore topics ranging from product management and technology to travel and music. Traveling serves as my avenue for unwinding and gaining fresh insights, which I incorporate into my work. Additionally, I have a keen interest in indie rock music, reflecting my appreciation for creativity and innovation in various forms.
+
+I am always eager to connect with like-minded professionals and explore new opportunities at the intersection of technology and creativity.
+
+---
+As a Product Manager at NeoSapien, I am dedicated to driving innovation and delivering impactful solutions in the technology sector. With a postgraduate degree in Computational Chemistry from the Indian Institute of Technology, Bombay, I bring a unique analytical perspective to product development. My entrepreneurial journey includes founding and leading a startup for two years, enriching my approach to problem-solving and innovation.
+
+Beyond my professional endeavors, I am passionate about infusing creativity into technology. I express this enthusiasm through my blog, where I explore topics ranging from product management and technology to travel and music. Traveling serves as my avenue for unwinding and gaining fresh insights, which I incorporate into my work. Additionally, I have a keen interest in indie rock music, reflecting my appreciation for creativity and innovation in various forms.
+
+I believe in the power of people and enjoy meeting new individuals to exchange ideas and perspectives. Building meaningful connections fuels my passion for collaborative innovation and continuous learning. I am always eager to connect with like-minded professionals and explore new opportunities at the intersection of technology and creativity.

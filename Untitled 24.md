@@ -1,0 +1,1 @@
+Can you share details on the training datasets (size/diversity), validation metrics (accuracy, FPR/FNR), and bias validation for your AI component?
